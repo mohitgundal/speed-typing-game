@@ -14,7 +14,7 @@ https://mohitgundal.github.io/speed-typing-game/
 
 ## Screenshots
 ## Home Screen
-![Home Screen](./screenshot1.png)
+![Home Screen](./Screenshot1.png)
 
 ## Tech Stack
 
