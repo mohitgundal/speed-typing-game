@@ -15,6 +15,10 @@ https://mohitgundal.github.io/speed-typing-game/
 ## Screenshots
 ## Home Screen
 ![Home Screen](./Screenshot1.png)
+## During typing
+![Typing in Progress](./Screenshot2.png)
+## Results
+![Results Screen](./Screenshot3.png)
 
 ## Tech Stack
 
