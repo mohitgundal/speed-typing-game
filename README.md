@@ -10,9 +10,7 @@ A fun and interactive speed typing game built with HTML, CSS, and JavaScript. Te
 - Clean and responsive user interface
 
 ## Demo
-
-**[Live Demo](https://your-username.github.io/your-repo-name/)**  
-*(Replace with your actual GitHub Pages or Netlify link)*
+https://mohitgundal.github.io/speed-typing-game/
 
 ## Screenshots
 
