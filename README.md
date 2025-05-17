@@ -13,9 +13,8 @@ A fun and interactive speed typing game built with HTML, CSS, and JavaScript. Te
 https://mohitgundal.github.io/speed-typing-game/
 
 ## Screenshots
-
-![Game Screenshot](screenshot.png)  
-*(Add a real screenshot file to your repo and update the name above)*
+## Home Screen
+![Home Screen](./screenshot1.png)
 
 ## Tech Stack
 
